@@ -2,11 +2,6 @@
 
 Welcome to **Ryann Web Design**, a beginner-friendly portfolio website built using basic HTML and CSS. This project showcases a personal introduction, offered services, and contact information in a clean, navigable layout.
 
-## 🌐 Live Preview
-
-Example: [View Live](https://github/Mahryann/ryann-web-design/)
-
----
 
 ## 🛠️ Built With
 
