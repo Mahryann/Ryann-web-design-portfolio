@@ -4,7 +4,7 @@ Welcome to **Ryann Web Design**, a beginner-friendly portfolio website built usi
 
 ## 🌐 Live Preview
 
-Example: [View Live](https://Mahryann.github.io/ryann-web-design/)
+Example: [View Live](https://github/Mahryann/ryann-web-design/)
 
 ---
 
